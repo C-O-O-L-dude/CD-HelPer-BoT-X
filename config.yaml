@@ -1,13 +1,11 @@
 telegram:
-    api_id: my.telegram.org
-    api_hash: my.telegram.org
-    bot_token: t.me/BotFather
+    api_id: 2712818
+    api_hash: fda406cc4f648c303a0fb77255f2a026
+    bot_token: 1924336789:AAGHCcmrWb3M0gWEjCGZUFX4LqDTYVovNuU
 config:
     owner_id:
-        - 782144712
-        - 558772678
+        - 1517181772
     sudo_id:
-        - 782144712
-        - 558772678
+        - 1517181772
     whitelisted_chats:
-        - -1001455294040
+        - -1001511877602
