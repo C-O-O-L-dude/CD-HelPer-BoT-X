@@ -5,7 +5,8 @@ A python3 modular helper bot for telegram.
 1. Install Python
 - `pkg install python`
 2. Clone this repository
-- `git clone https://github.com/Vethya/HelperBot`
+- `git clone https://github.com/C-O-O-L-dude/CD-HelPer-BoT-X
+- `
 3. Change directory
 - `cd HelperBot`
 4. Install requirements
